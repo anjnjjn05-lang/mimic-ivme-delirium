@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software release, the associated manuscript, and the MIMIC-IV references listed in README.md."
+title: "Early ICU IVME and Delirium After Cardiac Surgery Analysis Code"
+type: software
+authors:
+  - family-names: Li
+    given-names: Yang
+  - family-names: Yan
+    given-names: Yan
+version: 1.0.0
+date-released: 2026-09-13
+license: MIT
+keywords:
+  - MIMIC-IV
+  - cardiac surgery
+  - opioids
+  - delirium
+  - reproducible research
+preferred-citation:
+  type: article
+  title: "Early ICU Intravenous Opioid Dose and Subsequent CAM-ICU Positivity After Cardiac Surgery: A Retrospective 48-Hour Landmark Cohort Study"
+  authors:
+    - family-names: Li
+      given-names: Yang
+    - family-names: Yan
+      given-names: Yan
+  year: 2026

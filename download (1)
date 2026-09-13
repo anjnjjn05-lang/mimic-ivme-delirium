@@ -1,0 +1,45 @@
+outputs/
+data/
+derived/
+tmp/
+
+# Patient-level and generated analysis formats must never be committed.
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.rds
+*.rda
+*.RData
+*.fst
+*.duckdb
+*.db
+*.sqlite
+*.sav
+*.dta
+*.sas7bdat
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Credentials, local settings, and logs.
+.env
+.env.*
+*.log
+*.out
+*.key
+*.pem
+*.p12
+pgpass.conf
+.Renviron
+.Rhistory
+.Rproj.user/
+
+# Personal credentialing documents.
+*certificate*
+*training_report*
+*training-report*
+*DUA*
