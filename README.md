@@ -1,8 +1,12 @@
 # Early ICU IVME and Delirium After Cardiac Surgery
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22752940.svg)](https://doi.org/10.5281/zenodo.22752940)
+
 Reproducibility code for **Early ICU Intravenous Opioid Dose and Subsequent CAM-ICU Positivity After Cardiac Surgery: A Retrospective 48-Hour Landmark Cohort Study**.
 
 Authors: Yang Li and Yan Yan. Yan Yan is the corresponding author and the credentialed PhysioNet user who accessed MIMIC-IV for this analysis.
+
+The archived `v1.0.0` release is available from Zenodo at <https://doi.org/10.5281/zenodo.22752940>.
 
 ## Public-release boundary
 
